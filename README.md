@@ -1,1 +1,1 @@
-![Overall System Flow Diagram](https://github.com/nepagroup/spyder/blob/main/Product_Recommendation_Email_Generation/full_flow.png)
+![Overall System Flow Diagram](https://github.com/mirajdeepbhandari/uptest/blob/main/System%20Archicture.png)
